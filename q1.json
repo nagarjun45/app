@@ -1,0 +1,1 @@
+{"query_type": "discounted_products_list","filters": [{"operand1": "discount","operator": ">","operand2": 5}]}
